@@ -1,0 +1,56 @@
+.App {
+  /* text-align: center; */
+  /* display:flex;
+  flex-direction:row; */
+  /* justify-content: space-evenly; */
+}
+.fas {
+    padding-right: 10px;
+    padding-left: 10px;
+    cursor: pointer;
+}
+
+.item-center {
+    text-align: center;
+}
+
+.item-left {
+    text-align: left;
+}
+
+.grey-color {
+    color: grey;
+}
+
+.red-color {
+    color: red;
+}
+
+.nav-bar {
+    background-color: #fc7d01;
+    height: 20px;
+}
+
+.heading {
+    color: #fff;
+    padding-left: 10px;
+    font-weight: 600;
+}
+.container {
+    display:flex;
+    width: 100%;
+    border: 3px solid #fff;
+    padding: 20px;
+}
+#jitsi-iframe {
+    width: 70% !important;
+    float: left;
+    padding: 20px;
+    border: 2px solid red;
+}
+#notification-container {
+    width: 20%;
+    float: left;
+    padding: 20px;
+    border: 2px solid red;
+}
